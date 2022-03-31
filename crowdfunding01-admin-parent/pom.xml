@@ -18,7 +18,7 @@
     </modules>
     <properties>
         <!-- 声明属性，对Spring的版本进行统一管理，其他依赖均是依赖该4.3.20版本进行配置-->
-        <crowdfunding.spring.version>4.3.20.RELEASE</crowdfunding.spring.version>
+        <crowdfunding.spring.version>5.3.18</crowdfunding.spring.version>
         <!-- 声明属性，对SpringSecurity的版本进行统一管理-->
         <crowdfunding.spring.security.version>4.2.10.RELEASE</crowdfunding.spring.security.version>
     </properties>
